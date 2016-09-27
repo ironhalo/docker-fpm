@@ -1,4 +1,4 @@
-# chrishirsch/docker-fpm
+# dockerhub.artifactory.davita.com/docker-fpm
 
 Originally taken from tenzer/fpm with an attempt to make the image smaller.
 

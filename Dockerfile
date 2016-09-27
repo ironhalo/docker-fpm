@@ -1,5 +1,5 @@
 FROM phusion/baseimage
-MAINTAINER Chris Hirsch <chris@base2technology.com>
+MAINTAINER Ironman Squad <autocloud@davita.com>
 
 RUN apt-add-repository -y ppa:brightbox/ruby-ng && \
 
